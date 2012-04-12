@@ -1,0 +1,8 @@
+ol ol {
+	list-style-type: lower-alpha;
+}
+
+footer {
+  	display: block; 
+	font-size: x-small;
+}
